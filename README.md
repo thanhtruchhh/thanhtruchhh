@@ -2,6 +2,6 @@
 
 👋 Hi, I'm Thanh Truc, a recent graduate from UIT in Ho Chi Minh City, Viet Nam, passionate about the impact of data on business. Currently, I'm building my skills as a data analyst with a focus on SQL, PowerBI, and Python.
 
-🪴 Check out [my portfolio](https://github.com/thanhtruchhh/Thanh_Truc_Portfolio/blob/main/README.md).
+🪴 Check out [my portfolio](https://thanhtruchhh.github.io/Thanh_Truc_Portfolio/).
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/truc-dlt-data-driven/).
